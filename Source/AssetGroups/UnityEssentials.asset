@@ -56,6 +56,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 608c9a003ebce80118302053782d1017
+    m_Address: UnityEssentials_Prefab_AdvancedCamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6581c4f5477c0314db6e226a6b806c50
     m_Address: UnityEssentials_Prefab_Weather
     m_ReadOnly: 0
@@ -117,8 +122,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: e3168774da71db3598a40ab2fd0c67ae, type: 2}
+  m_Settings: {fileID: 11400000, guid: da428efaf3e173855ba331addb7a9d1b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 7b05f5a4feaf45173a6797da94a7c09a, type: 2}
-    - {fileID: 11400000, guid: fda73e0466e3a13368c963d12accbc87, type: 2}
+    - {fileID: 11400000, guid: 088f97db1b78b9e4bb7c8f8c4fc62180, type: 2}
