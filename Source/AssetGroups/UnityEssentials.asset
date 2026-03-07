@@ -31,11 +31,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 29fcb34ab9c6579a89389b5ce17bd381
-    m_Address: UnityEssentials_Inter-Italic
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3dbb5a702aaff5247925a79b7806a1b0
     m_Address: UnityEssentials_Prefab_CameraNoiseVolumes
     m_ReadOnly: 0
@@ -43,11 +38,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 48467eeb8afc2f344aac06960aa87439
     m_Address: UnityEssentials_AudioMixer
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4dca0026bb5031062a9e9b96cc629cc9
-    m_Address: UnityEssentials_Inter
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -127,7 +117,6 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: da428efaf3e173855ba331addb7a9d1b, type: 2}
+  m_Settings: {fileID: 11400000, guid: a5274f657bcfb70f3b195efccb99bf81, type: 2}
   m_SchemaSet:
-    m_Schemas:
-    - {fileID: 11400000, guid: 088f97db1b78b9e4bb7c8f8c4fc62180, type: 2}
+    m_Schemas: []
