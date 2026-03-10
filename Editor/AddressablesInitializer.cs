@@ -1,3 +1,4 @@
+#if Unity_Editor
 using UnityEditor;
 using UnityEditor.AddressableAssets.Build;
 using UnityEditor.AddressableAssets.Build.DataBuilders;
@@ -158,3 +159,4 @@ public static class AddressablesInitializer
         return updated;
     }
 }
+#endif
