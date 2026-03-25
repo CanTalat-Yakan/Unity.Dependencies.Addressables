@@ -91,11 +91,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bf1c20fc211b9d543a3253988b6388ab
-    m_Address: UnityEssentials_Prefab_Sponza
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d3a6b4ce4fad4f84ebd77ae448a3c687
     m_Address: UnityEssentials_USS_Transition
     m_ReadOnly: 0
